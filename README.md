@@ -1,4 +1,4 @@
-# Dice Cubes - React Native
+# Dice Cubes - React Native 🎲
 
 [<img src="./screenshots/home.jpg" width="250"/>](/screenshots/home.jpg)
 
